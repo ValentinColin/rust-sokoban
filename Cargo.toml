@@ -3,11 +3,13 @@ name = "rust-sokoban"
 version = "0.1.0"
 authors = ["Valentin Colin <valentin.colin78@gmail.com>"]
 edition = "2021"
-repository = "https://github.com/ValentinColin/rust-sokoban.git"
-homepage = "https://github.com/ValentinColin/rust-sokoban.git"
-license = "MIT"
-readme = "README.md"
 description = "Sokoban game writing in rust (this project is only useful to help using rust)"
+readme = "README.md"
+homepage = "https://github.com/ValentinColin/rust-sokoban.git"
+repository = "https://github.com/ValentinColin/rust-sokoban.git"
+license = "MIT"
+licence-file = "LICENSE"
+keywords = ["gamedev", "exemple-project"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
